@@ -10,7 +10,7 @@ const Hero = () => {
       <div className="hero__left col-span-2 mr-auto">
         <div className="tagline">
           <h1 className="text-5xl sm:text-9xl  font-bold">
-            EZ<span className="text-accent">QR</span>
+            TS<span className="text-accent">QR</span>
           </h1>
           <h2 className="text-xs sm:text-2xl font-bold tracking-widest ">
             QR Code Generator

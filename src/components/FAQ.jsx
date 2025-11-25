@@ -1,6 +1,5 @@
 import AccordionItem from "./Accordion";
 
-
 const Faq = () => {
   return (
     <section className="faq mb-20">
@@ -12,10 +11,10 @@ const Faq = () => {
         />
         <AccordionItem
           title="How can I create a QR code on this website?"
-          content="1). Choose the type of information you want to encode (e.g., URL, text, phone number).
-          2). Enter the relevant information in the provided field.
-          3). Click the 'Generate QR Code' button.
-          4). Your QR code will be generated and displayed on the screen. You can then download it for use."
+          content="
+          1). Enter the relevant information in the provided field.
+          2). Click the 'Generate QR Code' button.
+          3). Your QR code will be generated and displayed on the screen. You can then download it for use."
         />
         <AccordionItem
           title="Is this service free to use?"
